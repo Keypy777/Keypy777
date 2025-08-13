@@ -19,6 +19,7 @@ I’m always learning, experimenting, and building — feel free to check out my
 ### 💾   Projects   
    * Click [here](https://github.com/Keypy777/sf_data_science.git)
    * Click [here](https://github.com/Keypy777/CLEANINGDATAPROJECT.git)
+   * Click [here](https://github.com/Keypy777/Data-Science-project-for-HH.ru)
 
 
 
